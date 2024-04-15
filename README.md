@@ -22,3 +22,15 @@ Resolving collisions:
 Source:
  - CS50: https://www.youtube.com/watch?v=nvzVHwrrub0&ab_channel=CS50
  - Jacob Sorber: https://www.youtube.com/watch?v=2Ti5yvumFTU&ab_channel=JacobSorber
+
+# Application
+
+Hash table applied on a Leet Code exercise Two Sum:
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+The code LeetCode_Two_Sum.c file represents θ(n) since for each value n-1 values are walked through.
+It is possible to see the runtime from Leet Code exercise submission below.
+
+The code LeetCode_Two_Sum_Optimized.c file tries to get close to θ(1) with application of hash table.
+It is also possible to see the runtime from Leet Code exercise submission below.
+
