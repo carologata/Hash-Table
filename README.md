@@ -31,6 +31,9 @@ Given an array of integers nums and an integer target, return indices of the two
 The code LeetCode_Two_Sum.c file represents θ(n) since for each value n-1 values are walked through.
 It is possible to see the runtime from Leet Code exercise submission below.
 
+![Captura de tela de 2024-04-14 21-28-24](https://github.com/carologata/Hash-Table/assets/105884639/cf68ced4-9846-4fab-8e99-bd95573fcd11)
+
 The code LeetCode_Two_Sum_Optimized.c file tries to get close to θ(1) with application of hash table.
 It is also possible to see the runtime from Leet Code exercise submission below.
 
+![Captura de tela de 2024-04-14 21-29-13](https://github.com/carologata/Hash-Table/assets/105884639/79e518c4-3c44-4b9f-a511-c3dc5e7cd423)
