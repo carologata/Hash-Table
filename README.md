@@ -1,6 +1,6 @@
 # Hash-Table
 
-![image](https://github.com/carologata/Hash-Table/assets/105884639/8d9d6a70-5ace-4ec3-b9ce-642919c2638d)
+![image](https://github.com/carologata/Hash-Table/assets/105884639/706ab7a1-4d79-41b1-b737-21cc631f14a3)
 
 Combine advantages of both types of data structure - arrays and linked lists, while decreasing their disadvantages.
 
